@@ -4,9 +4,13 @@ This documentation provides a comprehensive guide to creating an automated tradi
 
 
 https://btccrush.io?ref=MzI5NDgwMTMxNzIwMDIzODI0MTg1 - Use my affiliate links to get discounts on trading fees.
+
 https://upvsdown.io?ref=MzI3MjI5MzUxNzIwMTM4MjY0MjYx - Use my affiliate links to get discounts on trading fees.
+
 https://moonxp.com?ref=MzMwNjg3MDkxNzIwMTM4NDkxMjIz - Use my affiliate links to get discounts on trading fees.
+
 https://callvsput.io?ref=MzMwNzA3NzYxNzIwMTM4NTMxMjA0 - Use my affiliate links to get discounts on trading fees.
+
 
 #### Contents:
 
