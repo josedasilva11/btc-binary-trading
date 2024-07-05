@@ -2,6 +2,8 @@
 
 This documentation provides a comprehensive guide to creating an automated trading bot for placing trades in the UpVsDown game using the Playnance Game Token (USDP) or the Playnance Meme Token (USDB). The bot is designed to interact with a smart contract and automate trade placements based on a predefined strategy.
 
+
+https://btccrush.io?ref=MzI5NDgwMTMxNzIwMDIzODI0MTg1 - Use my affiliate link to get discounts on trading fees.
 #### Contents:
 
 1. **Introduction**
@@ -26,8 +28,10 @@ This documentation provides a comprehensive guide to creating an automated tradi
      POOL_ID=15:05:btc
      AVATAR_URL=https://storage.googleapis.com/betcioproduction/bit_logo.jpg
      COUNTRY_CODE=UK
-     WHITE_LABEL_ID=upXd0
+     WHITE_LABEL_ID=335c9
      ```
+
+     Keep the white label to get discounts on trading fees.
 
    - **Running the Bot with Docker:**
      To run the bot using Docker, follow these steps:
