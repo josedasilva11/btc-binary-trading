@@ -70,7 +70,7 @@ https://callvsput.io?ref=MzMwNzA3NzYxNzIwMTM4NTMxMjA0 - Use my affiliate links t
    - **COUNTRY_CODE:** The country code (ALPHA 2) of the user.
    - **WHITE_LABEL_ID:** The white label ID to be used (the default is 335c9).
 
-   All the settings can be found here: [PlayBlock Game Tech Specs](https://github.com/playnance-games/PlayBlock/blob/main/Game_tech_specs.md#mainnet)
+   All the settings can be found here: [PlayBlock Game Tech Specs](https://github.com/josedasilva11/btc-binary-trading/tree/main/game_tech_specs)
 
 4. **Advanced Usage**
    - With the provided example code, you can create different strategies, run multiple trades, and use USDP and USDB tokens on other pools.
