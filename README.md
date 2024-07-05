@@ -80,3 +80,18 @@ This documentation provides a comprehensive guide to creating an automated tradi
 
 ### Additional Information
 - Every pool has a minimum and maximum investment setting. Ensure to adhere to these limits when configuring your bot.
+
+________________________________________________________________________________
+### Disclaimer
+
+This automated trading bot is developed solely to facilitate access to the UpVsDown game platform. I am not promoting gambling, nor do I endorse any form of betting or trading activities. This bot is provided as a tool for users who wish to automate their trading strategies on the platform.
+
+Please note:
+
+- **No Promotion of Gambling:** This bot is not intended to encourage gambling. It is merely a technical solution for users who already participate in the UpVsDown game and wish to automate their trading process.
+- **No Financial Advice:** I am not providing financial advice or trading strategies. The bot does not come with any pre-built strategies and any strategies implemented are entirely the responsibility of the user.
+- **No Liability:** I do not take any responsibility for any financial losses or gains incurred while using this bot. The use of this bot is at your own risk.
+- **No Share in Winnings or Losses:** I do not take any percentage of the winnings or losses. This bot is freely available and I do not benefit financially from its use.
+
+By using this bot, you agree to take full responsibility for your trading activities and understand the risks involved in automated trading. Always trade responsibly and ensure that you are compliant with the laws and regulations of your jurisdiction.
+
