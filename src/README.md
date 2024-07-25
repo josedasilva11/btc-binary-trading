@@ -24,4 +24,4 @@ List of countries
 https://www.iban.com/country-codes [Use ALPHA-2 code column]
 
 Pools and tokens details
-https://github.com/playnance-games/PlayBlock/blob/main/Game_tech_specs.md#mainnet
+ [PlayBlock Game Tech Specs](https://github.com/josedasilva11/btc-binary-trading/blob/main/game_tech_specs/game_tech_specs.md)
