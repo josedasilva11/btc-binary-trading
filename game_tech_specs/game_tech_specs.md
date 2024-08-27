@@ -1,5 +1,5 @@
 # Playblock chain specs
-
+(Pools might be updated from time to time better check in the game the contract address)
 ## Testnet
 - **Chain name:** Arbitrum Blueberry
 - **Chain ID:** 88153591557
