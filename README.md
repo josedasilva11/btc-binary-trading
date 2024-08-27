@@ -5,7 +5,7 @@ This documentation provides a comprehensive guide to creating an automated tradi
 
 ### Affiliate link to get discounts on trading fees.
 
-- https://btccrush.io/trade?ref=MzQ3MTc1NjYxNzIyMjE1OTUxMjg1 
+- https://bitprediction.fun/trade
 
 #### Contents:
 
