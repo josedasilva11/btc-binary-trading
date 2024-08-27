@@ -3,7 +3,7 @@
 This documentation provides a comprehensive guide to creating an automated trading bot for placing trades in the UpVsDown game using the Playnance Game Token (USDP) or the Playnance Meme Token (USDB). The bot is designed to interact with a smart contract and automate trade placements based on a predefined strategy.
 
 
-### Affiliate link to get discounts on trading fees.
+### Link to try out your strategy.
 
 - https://bitprediction.fun/trade
 
@@ -31,7 +31,7 @@ This documentation provides a comprehensive guide to creating an automated tradi
      POOL_ID=15:05:btc
      AVATAR_URL=https://storage.googleapis.com/betcioproduction/bit_logo.jpg
      COUNTRY_CODE=UK
-     WHITE_LABEL_ID=335c9
+     WHITE_LABEL_ID=75b94
      ```
 
      Keep the white label to get discounts on trading fees.
@@ -63,7 +63,7 @@ This documentation provides a comprehensive guide to creating an automated tradi
    - **POOL_ID:** The ID of the pool where trades will be placed.
    - **AVATAR_URL:** URL of the avatar image to be used.
    - **COUNTRY_CODE:** The country code (ALPHA 2) of the user.
-   - **WHITE_LABEL_ID:** The white label ID to be used (the default is 335c9).
+   - **WHITE_LABEL_ID:** The white label ID to be used (the default is 75b94).
 
    All the settings can be found here: [PlayBlock Game Tech Specs](https://github.com/josedasilva11/btc-binary-trading/blob/main/game_tech_specs/game_tech_specs.md)
 
